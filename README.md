@@ -1,16 +1,21 @@
-### Hi there 👋
+# Welcome to My Software Development Portfolio! 👋
 
-<!--
-**CristianBonifacio/CristianBonifacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Software Engineering student passionate about gaining practical experience and continuously learning in the ever-evolving field of software development.
 
-Here are some ideas to get you started:
+## Technologies and Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development
+- **Frameworks:** Angular, Vue.js, React, Node.js
+- **Languages:** HTML, CSS, JavaScript
+
+### Mobile Development
+- **Tools:** Android Studio, Kotlin, Flutter
+
+### Databases
+- **Relational:** MySQL, SQL Server, PostgreSQL
+- **Non-Relational:** MongoDB
+
+### Backend Development
+- **Frameworks:** Spring Boot, Express.js
+- **Languages:** Java, C#, Node.js
